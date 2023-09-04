@@ -7,7 +7,13 @@
    
    
 }
+h5{
+    color: grey;
+}
 
+h6{
+    color:grey
+}
 header{
     background-image: url(/img/pattern.png);
     padding-top: 112px;
@@ -29,7 +35,6 @@ th{
 }
 td{
     padding: 15px;
-
 }
 
 tr{
@@ -41,9 +46,11 @@ tr{
 }
 
 table{
-    padding: 30px;
+    padding: 20px;
     text-align: left;
-    /* margin: 20px; */
+}
+.tabella{
+    width: auto;
 }
 
 .ultima-colonna{
@@ -51,7 +58,8 @@ table{
     width: 40%;
 }
 .due-colonne{
-    width: 20%;
+   position: relative;
+   width: 10%;
 }
 
 
@@ -61,10 +69,13 @@ table{
 
 .monitor{
     position: relative;
-}
-h4{
-    position: absolute;
-   
-    color: white;
+    display: block;
 
+   
+}
+
+h4{
+   position: absolute;
+   color: white;
+ padding: 18px;
 }
