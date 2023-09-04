@@ -1,1 +1,30 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 10px
+    
+   
+   
+}
 
+header{
+    background-image: url(/img/pattern.png);
+    padding-top: 112px;
+    background-position: 48%;
+    margin: 0px;
+    background-position-y: -6px;
+    background-color: rgb(0, 119, 255);
+
+}
+
+#logo{
+    width: 10%;
+}
+th{
+    background-color: aqua;
+}
+
+tr{
+    padding: 20px;
+}
