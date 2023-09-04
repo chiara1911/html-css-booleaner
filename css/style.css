@@ -49,7 +49,7 @@ table{
     width: 20%;
 }
 
-#monitor{
+/* #monitor{
     background-image: url(/img/monitor.jpg);
     width: 20px;
     height: 20px;
@@ -70,7 +70,10 @@ table{
     text-align: center;
     margin-top: 20%;
     font-size: large;
-}
+} */
 .righe-azzurre{
     background-color: aquamarine;
+}
+.lorem{
+   display: block;
 }
