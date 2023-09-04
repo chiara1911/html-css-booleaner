@@ -58,10 +58,18 @@ table{
     text-align: center;
     margin-top: 20%;
     font-size: large;
+    margin
 }
 
 #graph{
     background-image: url(/img/graph.jpg);
+    width: 20px;
+    height: 20px;
+    padding: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    font-size: large;
 }
 .righe-azzurre{
     background-color: aquamarine;
