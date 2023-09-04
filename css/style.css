@@ -37,7 +37,8 @@ tr{
 
 table{
     padding: 30px;
-    margin: 20px;
+    text-align: left;
+    /* margin: 20px; */
 }
 
 .ultima-colonna{
@@ -54,4 +55,7 @@ table{
 
 #graph{
     background-image: url(/img/graph.jpg);
+}
+.righe-azzurre{
+    background-color: aquamarine;
 }
