@@ -51,6 +51,13 @@ table{
 
 #monitor{
     background-image: url(/img/monitor.jpg);
+    width: 20px;
+    height: 20px;
+    padding: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    font-size: large;
 }
 
 #graph{
